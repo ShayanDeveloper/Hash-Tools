@@ -8,7 +8,7 @@
 <img src="http://s8.picofile.com/file/8359011568/Shot_1.png" /></br></br>
 
 ### :question: How To Run This Script :question:
-```python
+```batch
 >> python Hash-Tools.py
 ```
 
